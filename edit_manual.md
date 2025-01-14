@@ -6,7 +6,7 @@
 > - [项目信息文件](#--projectsjson)
 
 #### - [members.json](./members.json)
-```json members.json
+```jsonc members.json
 [
 	{
 		"_show", // 是否显示(可选), 可选值: true(默认值), false
@@ -26,7 +26,7 @@
 ```
 
 #### - [projects.json](./projects.json)
-```json projects.json
+```jsonc projects.json
 [
 	{
 		"_status", // 项目状态(可选), 可选值: unknown(未知, 默认值), normal(正常), archived(停更), beta(公测)
