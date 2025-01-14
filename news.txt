@@ -2,4 +2,5 @@
 # '#'开头的行会被忽视
 # 下一行是示例
 # 2024-12-31 新年快乐
-2025-01-13 FreeDayO 正式更名为 LapisNet
+2025-01-12 FreeDayO 正式更名为 LapisNet
+2025-01-14 LapisNet 拥有了顶级域名 lapis-net.top
