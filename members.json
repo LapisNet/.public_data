@@ -20,7 +20,7 @@
 		"url": "https://latedream.us.kg/about/"
 	},
 	{
-		"avatar": "https://avatars.githubusercontent.com/u/144581741?v=4",
+		"avatar": "https://avatars.github.com/u/144581741?v=4",
 		"name": "teaSummer",
 		"aka": "阿巴怪",
 		"role": "合作伙伴",
@@ -41,7 +41,7 @@
 	{
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=610729134&spec=640",
 		"name": "寒冰飞鸟",
-		"role": "核心成员",
+		"role": "正式成员",
 		"url": "https://web.mccfk.cn/h5/#/pages/contents/userinfo?title=%E5%AF%92%E5%86%B0%E9%A3%9E%E9%B8%9F%20%E7%9A%84%E4%BF%A1%E6%81%AF&name=%E5%AF%92%E5%86%B0%E9%A3%9E%E9%B8%9F&uid=5&avatar=https%253A%252F%252Fftp.mccfk.cn%252F%252Fapp%252F2025%252F1%252F9%252F7cda4f7e-dcb3-45e4-9cb8-f4ab98218deb.png"
 	},
 	{
@@ -55,11 +55,5 @@
 		"aka": "MySQLdisappoint",
 		"role": "核心成员",
 		"url": "https://github.com/MySQLdisappoint"
-	},
-	{
-		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2172514084&spec=640",
-		"name": "我是redstone",
-		"role": "核心成员",
-		"url": "https://fdsw.miraheze.org/wiki/我是redstone"
 	}
 ]
