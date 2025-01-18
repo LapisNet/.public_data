@@ -19,7 +19,7 @@
 		"url": "https://latedream.us.kg/about/"
 	},
 	{
-		"avatar": "https://avatars.githubusercontent.com/u/144581741?v=4",
+		"avatar": "https://avatars.github.com/u/144581741?v=4",
 		"name": "teaSummer",
 		"aka": "阿巴怪",
 		"role": "合作伙伴",
@@ -54,5 +54,10 @@
 		"aka": "MySQLdisappoint",
 		"role": "核心成员",
 		"url": "https://github.com/MySQLdisappoint"
+	},
+	{
+                "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3031437492&spec=640",
+                "name": "Lis_kai",
+		"role": "正式成员"
 	}
 ]
