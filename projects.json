@@ -1,6 +1,7 @@
 [
 	{
 		"_status": "beta",
+		"_show": true,
 		"title": "SMCFJS计划",
 		"subTitle": "MC创作者的全新开发工具",
 		"info1": "更少的开发成本<br/>- 更快的开发<br/>- 更方便的书写<br/>- 可本地化<br/>- 原生js框架 无需Node即可使用",
@@ -18,6 +19,7 @@
 	},
 	{
 		"_status": "normal",
+		"_show": true,
 		"title": "mc命令自动补全工具",
 		"subTitle": "命令补全/纠错<s>/摸鱼</s>工具",
 		"info1": "本工具提供了对mcfunction内命令的自动补全功能,解决了很多新人总是记不住命令拼写的问题,以及想偷懒的诉求( 比如function就可以简写为fun ) <br>- 可视化UI方便新人使用",
@@ -27,6 +29,7 @@
 	},
 	{
 		"_status": "archived",
+		"_show": true,
 		"title": "smcf.js 编译器",
 		"subTitle": "基于web的smcf编译器实现",
 		"info1": "<hide>虽然叫cper,但她可不是帮你组cp的(</hide>",
@@ -36,6 +39,7 @@
 	},
 	{
 		"_status": "normal",
+		"_show": true,
 		"title": "SMCF编译器: 重生",
 		"subTitle": "smcf.js编译器的新生",
 		"info1": "全新的ui、更快的速度、更好的性能",

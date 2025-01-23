@@ -1,5 +1,6 @@
 [
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1983997053&spec=640",
 		"name": "Love-kogasa",
 		"aka": "小李子",
@@ -7,11 +8,13 @@
 		"url": "https://love-kogasa.github.io/Love-Kogasa/"
 	},
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2484625708&spec=640",
 		"name": "不甜.",
 		"role": "核心成员"
 	},
 	{
+		"_show": true,
 		"avatar": "https://latedream.us.kg/about/static/xs_avatar_4k_.jpg",
 		"name": "晚梦",
 		"aka": "LateDream",
@@ -19,6 +22,7 @@
 		"url": "https://latedream.us.kg/about/"
 	},
 	{
+		"_show": true,
 		"avatar": "https://static.wikitide.net/freedayowiki/1/13/TeaSummer_2.jpg",
 		"name": "teaSummer",
 		"aka": "阿巴怪",
@@ -26,6 +30,7 @@
 		"url": "https://github.com/teaSummer"
 	},
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3591695712&spec=640",
 		"name": "爱喝粥的小奔",
 		"aka": "君俊菌",
@@ -33,22 +38,26 @@
 		"url": "https://github.com/junjun260"
 	},
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3811652434&spec=640",
 		"name": "FreeLucker",
 		"role": "吉祥物"
 	},
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=610729134&spec=640",
 		"name": "寒冰飞鸟",
 		"role": "正式成员",
 		"url": "https://web.mccfk.cn/h5/#/pages/contents/userinfo?title=%E5%AF%92%E5%86%B0%E9%A3%9E%E9%B8%9F%20%E7%9A%84%E4%BF%A1%E6%81%AF&name=%E5%AF%92%E5%86%B0%E9%A3%9E%E9%B8%9F&uid=5&avatar=https%253A%252F%252Fftp.mccfk.cn%252F%252Fapp%252F2025%252F1%252F9%252F7cda4f7e-dcb3-45e4-9cb8-f4ab98218deb.png"
 	},
 	{
+		"_show": true,
 		"avatar": "none",
 		"name": "玖佰",
 		"role": "画师"
 	},
 	{
+		"_show": true,
 		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1844472812&spec=640",
 		"name": "麦思",
 		"aka": "MySQLdisappoint",
@@ -56,6 +65,7 @@
 		"url": "https://github.com/MySQLdisappoint"
 	},
 	{
+		"_show": true,
                 "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3031437492&spec=640",
                 "name": "Lis_kai",
 		"role": "正式成员"
