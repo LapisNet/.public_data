@@ -15,18 +15,17 @@
 	},
 	{
 		"_show": true,
-		"avatar": "https://latedream.us.kg/about/static/xs_avatar_4k_.jpg",
+		"avatar": "https://about.latedream.cn/assets/statics/avatar.webp",
 		"name": "晚梦",
 		"aka": "LateDream",
 		"role": "核心成员",
-		"url": "https://latedream.us.kg/about/"
+		"url": "https://about.latedream.cn"
 	},
 	{
 		"_show": true,
-		"avatar": "https://static.wikitide.net/freedayowiki/1/13/TeaSummer_2.jpg",
+		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3143279820&spec=640",
 		"name": "teaSummer",
-		"aka": "阿巴怪",
-		"role": "合作伙伴",
+		"role": "正式成员",
 		"url": "https://github.com/teaSummer"
 	},
 	{
@@ -52,7 +51,7 @@
 	},
 	{
 		"_show": true,
-		"avatar": "none",
+		"avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=2598345773&spec=640",
 		"name": "玖佰",
 		"role": "画师"
 	},
@@ -66,8 +65,8 @@
 	},
 	{
 		"_show": true,
-                "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3031437492&spec=640",
-                "name": "Lis_kai",
+        "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=3031437492&spec=640",
+        "name": "Lis_kai",
 		"role": "正式成员"
 	}
 ]
