@@ -6,17 +6,24 @@
 > - [项目信息文件](#--projectsjson)
 
 #### - [members.json](./members.json)
-```json members.json
-[
-	{
-		"_show", // 是否显示(必须), 可选值: true, false
-		"avatar", // 头像(必须), 可选值: url, data+base64, none
-		"name", // 姓名(必须)
-		"aka", // 又名(可选)
-		"role", // 身份(必须)
-		"url" // 个人页面(可选)
-	}
-]
+```ts
+{
+	/**
+	 * 可见性
+	 * @default true
+	 */
+	_show?: boolean;
+	/** 头像外链 */
+	avatar: string | null;
+	/** 昵称 */
+	name: string;
+	/** 别名 */
+	aka?: string;
+	/** 身份 */
+	role: string;
+	/** 个人主页 */
+	url?: string;
+}[]
 ```
 
 #### - [news.txt](./news.txt)
@@ -26,18 +33,39 @@
 ```
 
 #### - [projects.json](./projects.json)
-```json projects.json
-[
-	{
-		"_status", // 项目状态(可选), 可选值: unknown(未知, 默认值), normal(正常), archived(停更), beta(公测)
-		"_show", // 是否显示(必须), 可选值: true, false
-		"title", // 项目名称/主标题(必须)
-		"subTitle", // 副标题(可选)
-		"info1", // 信息行1(可选)
-		"info2", // 信息行2(可选)
-		"repo", // 项目仓库(可选)
-		"repotype", // 项目仓库类型(可选), 默认github
-		"license", // 开源协议(可选)
-	}
-]
+```ts
+{
+	/**
+	 * 状态
+	 * @default 'unknown'
+	 */
+	_status?: 'unknown' | 'wip' | 'normal' | 'archived' | 'deprecated';
+	/**
+	 * 可见性
+	 * @default true
+	 */
+	_show?: boolean;
+	/** 项目名称/标题 */
+	title: string;
+	/** 副标题 */
+	sub_title?: string;
+	/** 信息行1 */
+	info1?: string;
+	/** 信息行2 */
+	info2?: string;
+	/**
+	 * 仓库短链接
+	 * @example 'username/repo'
+	 */
+	repo?: string;
+	/**
+	 * 仓库类型
+	 * @default 'github.com'
+	 */
+	repo_type?: string;
+	/** 许可证 */
+	license?: string;
+	/** 链接 */
+	url?: string;
+}[]
 ```
