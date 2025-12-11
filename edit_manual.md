@@ -48,7 +48,7 @@
 	/** 项目名称/标题 */
 	title: string;
 	/** 副标题 */
-	sub_title?: string;
+	subtitle?: string;
 	/** 信息行1 */
 	info1?: string;
 	/** 信息行2 */
