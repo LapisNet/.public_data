@@ -20,4 +20,15 @@
     },
     "next_release_at": ""
   } */
+  {
+    "_status": "",
+    "name": "MCBBS整合包pack.json下载器",
+    "desc": "用于将mcbbs格式的整合包中的override.json所描述的所有模组和资源包高速自动的下载下来，可自由指定线程数",
+    "target": "N/A",
+    "leader": {
+      "name": "麦思",
+      "qq": 1844472812
+    },
+    "next_release_at": "N/A"
+  }
 ]
