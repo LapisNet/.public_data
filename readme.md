@@ -12,8 +12,9 @@
 see [v1 edit manual](./edit_manual.md#--projectsjson)
 
 ## project v2
-- file path: [./projects2.jsonc](./projects2.jsonc)
-- format:
+- **file path**: [./projects2.jsonc](./projects2.jsonc)
+- **note**: 项目描述可以使用[LateMarked](./late-marked.md)\(实验性\)
+- **format**:
   ```ts
   [
     // ...,
