@@ -1,0 +1,20 @@
+// @fromat: v2
+[
+  /* {
+    "_status"?: "",
+    "_show"?: boolean,
+    "name": "example" | {
+      "current": "example",
+      "previous"?: "old name"
+    },
+    "desc": "describe the project",
+    "target": "target of the project",
+    "leader": {
+      "name": "someone",
+      "email"?: "",
+      "url"?: "",
+      "qq"?: number,
+    },
+    "next_release_at": ""
+  } */
+]
