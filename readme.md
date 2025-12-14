@@ -25,6 +25,9 @@ see [v1 edit manual](./edit_manual.md#--projectsjson)
         "previous"?: string
       },
       "desc": string,
+      "link"?: string,
+      "repo"?: string,
+      "license"?: string,
       "target": string,
       "leader": {
         "name": string,
