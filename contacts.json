@@ -7,16 +7,19 @@
   "qq": {
     "icon": "fab fa-qq",
     "id": 822693016,
+    "title": "QQ群",
     "url": "https://qm.qq.com/q/i0F8L4P1jW"
   },
   "github": {
     "icon": "fab fa-github",
     "id": "LapisNet",
+    "title": "GitHub",
     "url": "https://github.com/LapisNet"
   },
   "discord": {
     "icon": "fab fa-discord",
     "id": "",
+    "title": "Discord",
     "url": "https://discord.gg/m6BwyRp7Mv"
   }
 }
