@@ -1,0 +1,22 @@
+{
+  "email": {
+    "icon": "fas fa-envelope",
+    "id": "1983997053@qq.com",
+    "url": "mailto:1983997053@qq.com"
+  },
+  "qq": {
+    "icon": "fab fa-qq",
+    "id": 822693016,
+    "url": "https://qm.qq.com/q/i0F8L4P1jW"
+  },
+  "github": {
+    "icon": "fab fa-github",
+    "id": "LapisNet",
+    "url": "https://github.com/LapisNet"
+  },
+  "discord": {
+    "icon": "fab fa-discord",
+    "id": "",
+    "url": "https://discord.gg/m6BwyRp7Mv"
+  }
+}
