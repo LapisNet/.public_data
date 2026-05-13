@@ -5,7 +5,7 @@
 > - [新闻文件](#--newstxt)
 > - [项目信息文件](#--projectsjson)
 
-#### - [members.json](./members.json)
+#### - [members.json](./src/members.json)
 ```ts
 {
 	/**
@@ -26,13 +26,13 @@
 }[]
 ```
 
-#### - [news.txt](./news.txt)
+#### - [news.txt](./src/news.txt)
 ```text news.txt
 <时间> <事件>
 # 具体自行看文件内容
 ```
 
-#### - [projects.json](./projects.json)
+#### - [projects.json](./src/projects.json)
 ```ts
 {
 	/**
