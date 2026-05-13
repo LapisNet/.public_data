@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"build":"node .bin/minify.js","postbuild":"node .bin/public-helper.js"},"devDependencies":{"json5":"^2.2.3"}}
